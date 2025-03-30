@@ -2,7 +2,7 @@ using Zenject;
 using UnityEngine;
 // using IPTech.Coroutines;
 
-public class GameInstaller : Installer<GameInstaller>
+public class GameInstaller : MonoInstaller
 {
     // public Slider foodSlider;  // Reference to the UI Slider in Inspector
 

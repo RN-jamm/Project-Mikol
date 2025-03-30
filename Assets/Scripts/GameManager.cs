@@ -8,8 +8,6 @@ public class GameManager : MonoBehaviour
     // public Slider foodSlider;  // UI Slider to show food progress
     [Inject]
     private FoodService _foodService;
-    // [Inject]
-    // private CoroutineRunner _coroutineRunner;
     public Button SpawnMelee;
 
     private void Awake()

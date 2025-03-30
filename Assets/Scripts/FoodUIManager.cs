@@ -14,6 +14,7 @@ public class FoodUIManager : MonoBehaviour
 
     private void Update()
     {
-        _foodText.text = $"Food: {_foodService.foodAmount}"; // Update UI
+        var value = _foodService.foodAmount;
+        _foodText.text = $"{value}$"; // Update UI
     }
 }
