@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 53df620e0ff1bf54f9cd83bbd5a04291
+guid: 3a24246ad22b8984ea6c9ee843219d94
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
+  - spawnPoint: {instanceID: 0}
   - friendlyUnitPrefab: {fileID: 7653142404988001171, guid: c8a2dc03dc5498044a215a681f3144a4, type: 3}
-  - SpawnMelee: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
